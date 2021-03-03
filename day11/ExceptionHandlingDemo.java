@@ -2,7 +2,7 @@ package day11;
 
 import java.util.Scanner;
 
-public class ExceptionDemo3 {
+public class ExceptionHandlingDemo {
 	public static void main(String[] args) throws Exception {
 		Dog tiger=new Dog();
 		Child baby=new Child();
