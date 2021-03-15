@@ -1,0 +1,17 @@
+<!DOCTYPE invoices SYSTEM "invoice.dtd">
+<invoices>
+	<invoice>
+		<sno>1</sno>
+		<itemname>Snickers</itemname>
+		<price>20</price>
+		<quantity>10</quantity>
+		<amount>200</amount>
+	</invoice>
+	<invoice>
+		<sno>2</sno>
+		<itemname>Munch</itemname>
+		<price>10</price>
+		<quantity>10</quantity>
+		<amount>100</amount>
+	</invoice>
+</invoices>
